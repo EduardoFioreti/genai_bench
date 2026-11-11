@@ -1,0 +1,41 @@
+{
+  "data_hora": "2026-11-10T20:52:53",
+  "arquitetura": "sincrona",
+  "url": "http://127.0.0.1:8000/sync/",
+  "niveis": [
+    5,
+    10,
+    20,
+    40
+  ],
+  "repeticoes": 5,
+  "aquecimento": 3,
+  "timeout_s": 30.0,
+  "ws_base": null,
+  "pausa_s": 40.0,
+  "semente": 42,
+  "processos_monitorados": [
+    "web=4520"
+  ],
+  "computador": {
+    "sistema": "Windows 10",
+    "versao_sistema": "10.0.26200",
+    "processador": "AMD64 Family 25 Model 80 Stepping 0, AuthenticAMD",
+    "nucleos_fisicos": 8,
+    "nucleos_logicos": 16,
+    "memoria_total_gb": 7.4,
+    "python": "3.11.9"
+  },
+  "pacotes": {
+    "django": "5.2.19",
+    "celery": "5.5.3",
+    "redis": "6.4.0",
+    "channels": "4.3.2",
+    "channels-redis": "4.3.0",
+    "daphne": "4.2.3",
+    "waitress": "3.0.2",
+    "httpx": "0.28.1",
+    "websockets": "17.4",
+    "psutil": "7.2.2"
+  }
+}

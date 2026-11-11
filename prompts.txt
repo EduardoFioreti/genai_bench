@@ -1,0 +1,20 @@
+Explique em um parágrafo o que é uma fila de tarefas.
+Resuma em três frases a diferença entre processamento síncrono e assíncrono.
+Escreva um e-mail curto pedindo a remarcação de uma reunião.
+Dê três dicas para organizar o estudo de uma disciplina de programação.
+Explique o que é um servidor web e para que ele serve.
+Descreva em um parágrafo o que é uma API.
+Liste cinco cuidados ao armazenar senhas em um sistema.
+Explique o que é cache e quando ele ajuda.
+Escreva uma descrição curta de um aplicativo de controle de gastos.
+Explique a diferença entre banco de dados relacional e não relacional.
+Resuma o que é computação em nuvem em quatro frases.
+Dê um exemplo de uso de inteligência artificial em um sistema de atendimento.
+Explique o que é latência e por que ela importa para o usuário.
+Escreva um parágrafo sobre a importância de testes automatizados.
+Explique o que é um WebSocket em linguagem simples.
+Descreva o que faz um balanceador de carga.
+Dê três vantagens de usar controle de versão com Git.
+Explique o que é concorrência em sistemas computacionais.
+Escreva uma mensagem de boas-vindas para novos usuários de um sistema.
+Explique o que é uma requisição HTTP e quais são suas partes.
